@@ -24,14 +24,15 @@
   <div class="dots">🟥🟨🟦</div>
   <h1 id="h">Join my Lab Team</h1>
   <p id="t">Solve color puzzles together and hit a weekly goal as a team.</p>
+  <p id="tip" style="font-size:14px">New to Beaker Lab? Install it, then come back and tap Open in Beaker Lab. You and your friend each get a free color pack.</p>
   <a class="btn open" id="open" href="beakerlab://team">Open in Beaker Lab</a>
   <a class="btn get" href="https://apps.apple.com/app/id6816478290">Get Beaker Lab free</a>
 </main>
 <script>
-  var c = (new URLSearchParams(location.search).get("c") || "").toUpperCase().replace(/[^A-Z0-9]/g, "").slice(0, 6);
-  if (c.length === 6) {
-    document.getElementById("t").textContent = "Team code " + c + ". Solve color puzzles together and hit a weekly goal as a team.";
-    var link = "beakerlab://team?c=" + c;
+  var c = (new URLSearchParams(location.search).get("c") || "").toUpperCase().replace(/[^A-Z0-9]/g, "").slice(0, 12), r = (new URLSearchParams(location.search).get("r") || "").toUpperCase().replace(/[^A-Z0-9]/g, "").slice(0, 6);
+  if (c.length >= 6) {
+    document.getElementById("t").textContent = "Solve color puzzles together and hit a weekly goal as a team.";
+    var link = "beakerlab://team?c=" + c + (r ? "&r=" + r : "");
     document.getElementById("open").href = link;
     location.href = link;
   }
