@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Join my Beaker Lab team</title>
+<meta name="apple-itunes-app" content="app-id=6816478290">
+<meta property="og:title" content="Join my Beaker Lab team!">
+<meta property="og:description" content="Pour it, mix it, cork it. A free color puzzle for iPhone, iPad and Apple Watch.">
+<style>
+  :root{color-scheme:light dark; --bg:#0b1020; --fg:#fff; --muted:#aab3c8; --blue:#0A84FF}
+  body{margin:0; min-height:100vh; display:flex; align-items:center; justify-content:center; background:var(--bg); color:var(--fg); font:17px/1.4 -apple-system, system-ui, sans-serif; text-align:center; padding:24px; box-sizing:border-box}
+  main{max-width:360px}
+  .dots{font-size:28px; letter-spacing:4px}
+  h1{font-size:30px; margin:10px 0 6px}
+  p{color:var(--muted); margin:0 0 22px}
+  a.btn{display:block; padding:15px 18px; border-radius:999px; text-decoration:none; font-weight:700; margin:10px 0}
+  a.open{background:var(--blue); color:#fff}
+  a.get{background:#fff; color:#0b1020}
+</style>
+</head>
+<body>
+<main>
+  <div class="dots">🟥🟨🟦</div>
+  <h1 id="h">Join my Lab Team</h1>
+  <p id="t">Solve color puzzles together and hit a weekly goal as a team.</p>
+  <a class="btn open" id="open" href="beakerlab://team">Open in Beaker Lab</a>
+  <a class="btn get" href="https://apps.apple.com/app/id6816478290">Get Beaker Lab free</a>
+</main>
+<script>
+  var c = (new URLSearchParams(location.search).get("c") || "").toUpperCase().replace(/[^A-Z0-9]/g, "").slice(0, 6);
+  if (c.length === 6) {
+    document.getElementById("t").textContent = "Team code " + c + ". Solve color puzzles together and hit a weekly goal as a team.";
+    var link = "beakerlab://team?c=" + c;
+    document.getElementById("open").href = link;
+    location.href = link;
+  }
+</script>
+</body>
+</html>
