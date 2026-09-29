@@ -1,0 +1,37 @@
+{
+  "_note": "Beaker Lab remote settings. The app reads this about once an hour. Leave out anything you don't want to change.",
+  "interstitialFromLevel": 11,
+  "interstitialEvery": 3,
+  "freeHintsPerPuzzle": 1,
+  "freeUndosPerPuzzle": 1,
+  "extraMovesPerAd": 10,
+  "undosPerAd": 3,
+  "hintsPerAd": 3,
+  "tryHours": 24,
+  "coinCost": {
+    "hint": 30,
+    "undo": 20,
+    "moves": 60,
+    "fix": 60,
+    "skip": 100,
+    "streak": 150,
+    "beaker": 80
+  },
+  "coinEarn": {
+    "level": 10,
+    "daily": 30,
+    "weekly": 25,
+    "challenge": 10,
+    "team": 100,
+    "invite": 200,
+    "video": 25,
+    "videosPerDay": 5,
+    "welcome": 100
+  },
+  "piggyCfg": {
+    "perWin": 30,
+    "min": 900,
+    "cap": 3000,
+    "from": 6
+  }
+}
