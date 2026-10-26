@@ -1,1 +1,46 @@
-{"_note": "Beaker Lab remote settings. The app reads this about once an hour. Leave out anything you don't want to change.","hard": {"spare": -1,"base100": 0},"interstitialFromLevel": 15,"interstitialEvery": 3,"freeHintsPerPuzzle": 1,"freeUndosPerPuzzle": 1,"extraMovesPerAd": 10,"undosPerAd": 3,"hintsPerAd": 3,"tryHours": 24,"coinCost": {"hint": 30,"undo": 20,"moves": 250,"fix": 60,"skip": 400,"streak": 150,"beaker": 200},"coinEarn": {"level": 5,"daily": 10,"weekly": 25,"challenge": 10,"team": 50,"invite": 200,"video": 25,"videosPerDay": 5,"welcome": 500},"login": {"fromLevel": 1},"piggyCfg": {"perWin": 30,"min": 900,"cap": 3000,"from": 6}}
+{
+  "_note": "Beaker Lab remote settings. The app reads this about once an hour. Leave out anything you don't want to change. Also tunable from save 153 (defaults in the app, not set here): login {fromLevel 3, b1 10, b2 15, b3 20, beakers4 2, b5 25, b6 40, d2Beakers 2, d2Hours 48, remindHour 12}; rating {atLevel 15, stars 3, maxAsks 3, gapDays 90}; tutorial {coachUntil 2, fastTipUntil 5}; beakerFrom 6; skipFrom 10; welcomeLevel 1; streak {s1 2, m1 1.25, s2 4, m2 1.5, s3 7, m3 2}; hard.stuckAfter 2.",
+  "hard": {
+    "spare": -1,
+    "base20": 3,
+    "base50": 0,
+    "base100": 0
+  },
+  "interstitialFromLevel": 15,
+  "interstitialEvery": 3,
+  "freeHintsPerPuzzle": 1,
+  "freeUndosPerPuzzle": 1,
+  "extraMovesPerAd": 10,
+  "undosPerAd": 3,
+  "hintsPerAd": 3,
+  "tryHours": 24,
+  "coinCost": {
+    "hint": 30,
+    "undo": 20,
+    "moves": 250,
+    "fix": 60,
+    "skip": 400,
+    "streak": 150,
+    "beaker": 200
+  },
+  "coinEarn": {
+    "level": 5,
+    "daily": 10,
+    "weekly": 25,
+    "challenge": 10,
+    "team": 50,
+    "invite": 200,
+    "video": 25,
+    "videosPerDay": 5,
+    "welcome": 500
+  },
+  "login": {
+    "fromLevel": 1
+  },
+  "piggyCfg": {
+    "perWin": 30,
+    "min": 900,
+    "cap": 3000,
+    "from": 6
+  }
+}
