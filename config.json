@@ -1,5 +1,5 @@
 {
-  "_note": "Beaker Lab remote settings. The app reads this about once an hour. Leave out anything you don't want to change. Also tunable from save 153 (defaults in the app, not set here): login {fromLevel 3, b1 10, b2 15, b3 20, beakers4 2, b5 25, b6 40, d2Beakers 2, d2Hours 48, remindHour 12}; rating {atLevel 15, stars 3, maxAsks 3, gapDays 90}; tutorial {coachUntil 2, fastTipUntil 5}; beakerFrom 6; skipFrom 10; welcomeLevel 1; streak {s1 2, m1 1.25, s2 4, m2 1.5, s3 7, m3 2}; hard.stuckAfter 2.",
+  "_note": "Beaker Lab remote settings. The app reads this about once an hour. Leave out anything you don't want to change. Also tunable from save 153 (defaults in the app, not set here): login {fromLevel 3, b1 10, b2 15, b3 20, beakers4 2, b5 25, b6 40, d2Beakers 2, d2Hours 48, remindHour 12}; rating {atLevel 15, stars 3, maxAsks 3, gapDays 90}; tutorial {coachUntil 2, fastTipUntil 5}; beakerFrom 6; skipFrom 10; welcomeLevel 1; streak {s1 2, m1 1.25, s2 4, m2 1.5, s3 7, m3 2}; hard.stuckAfter 2. events (Oct 28, 2026, Guy): replaces the game EVENTS list. Spooky Brews to Nov 4, Thanksgiving free day Thu Nov 5; 2026 dates (remove after Nov 26 so later years use the game defaults).",
   "hard": {
     "spare": -1,
     "base20": 3,
@@ -43,5 +43,189 @@
     "min": 900,
     "cap": 3000,
     "from": 6
-  }
+  },
+  "events": [
+    {
+      "key": "galaxy",
+      "name": "Galaxy Nights Week",
+      "e": "🌌",
+      "from": [
+        1,
+        15
+      ],
+      "to": [
+        1,
+        21
+      ]
+    },
+    {
+      "key": "sweetheart",
+      "name": "Sweetheart Week",
+      "e": "💘",
+      "from": [
+        2,
+        8
+      ],
+      "to": [
+        2,
+        14
+      ]
+    },
+    {
+      "key": "clover",
+      "name": "Lucky Clover Week",
+      "e": "🍀",
+      "from": [
+        3,
+        11
+      ],
+      "to": [
+        3,
+        17
+      ]
+    },
+    {
+      "key": "spring",
+      "name": "Spring Eggs Week",
+      "e": "🐣",
+      "from": [
+        4,
+        1
+      ],
+      "to": [
+        4,
+        7
+      ]
+    },
+    {
+      "key": "pastel",
+      "name": "Pastel Potions Week",
+      "e": "🌸",
+      "from": [
+        5,
+        15
+      ],
+      "to": [
+        5,
+        21
+      ]
+    },
+    {
+      "key": "soda",
+      "name": "Soda Fountain Week",
+      "e": "🥤",
+      "from": [
+        6,
+        14
+      ],
+      "to": [
+        6,
+        20
+      ]
+    },
+    {
+      "key": "firecracker",
+      "name": "Firecracker Week",
+      "e": "🎆",
+      "from": [
+        7,
+        1
+      ],
+      "to": [
+        7,
+        7
+      ]
+    },
+    {
+      "key": "disco",
+      "name": "Disco Fever Week",
+      "e": "🪩",
+      "from": [
+        8,
+        10
+      ],
+      "to": [
+        8,
+        16
+      ]
+    },
+    {
+      "key": "autumn",
+      "name": "Autumn Harvest Week",
+      "e": "🍂",
+      "from": [
+        9,
+        22
+      ],
+      "to": [
+        9,
+        28
+      ]
+    },
+    {
+      "key": "spooky",
+      "name": "Spooky Brews Week",
+      "e": "🎃",
+      "from": [
+        10,
+        24
+      ],
+      "to": [
+        11,
+        4
+      ]
+    },
+    {
+      "key": "thanksgiving",
+      "name": "Thanksgiving",
+      "e": "🦃",
+      "from": [
+        11,
+        5
+      ],
+      "to": [
+        11,
+        5
+      ]
+    },
+    {
+      "key": "pie",
+      "name": "Pie Filling Week",
+      "e": "🥧",
+      "from": [
+        11,
+        13
+      ],
+      "to": [
+        11,
+        19
+      ]
+    },
+    {
+      "key": "thanksgiving",
+      "name": "Thanksgiving Week",
+      "e": "🦃",
+      "from": [
+        11,
+        20
+      ],
+      "to": [
+        11,
+        26
+      ]
+    },
+    {
+      "key": "candycane",
+      "name": "Candy Cane Week",
+      "e": "🎄",
+      "from": [
+        12,
+        18
+      ],
+      "to": [
+        12,
+        24
+      ]
+    }
+  ]
 }
