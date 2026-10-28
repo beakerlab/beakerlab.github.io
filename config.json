@@ -6,7 +6,7 @@
     "base50": 0,
     "base100": 0
   },
-  "interstitialFromLevel": 75,
+  "interstitialFromLevel": 40,
   "interstitialEvery": 5,
   "freeHintsPerPuzzle": 1,
   "freeUndosPerPuzzle": 1,
