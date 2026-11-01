@@ -176,19 +176,6 @@
       ]
     },
     {
-      "key": "thanksgiving",
-      "name": "Thanksgiving",
-      "e": "🦃",
-      "from": [
-        11,
-        5
-      ],
-      "to": [
-        11,
-        5
-      ]
-    },
-    {
       "key": "pie",
       "name": "Pie Filling Week",
       "e": "🥧",
@@ -207,11 +194,11 @@
       "e": "🦃",
       "from": [
         11,
-        20
+        22
       ],
       "to": [
         11,
-        26
+        28
       ]
     },
     {
