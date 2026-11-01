@@ -6,10 +6,10 @@
     "base50": 0,
     "base100": 0
   },
-  "interstitialFromLevel": 40,
-  "interstitialEvery": 5,
-  "interstitialEvery30": 5,
-  "interstitialMinSeconds": 180,
+  "interstitialFromLevel": 25,
+  "interstitialEvery": 3,
+  "interstitialEvery30": 3,
+  "interstitialMinSeconds": 120,
   "rewardedOffers": {
     "outOfMoves": 1,
     "doubleCoins": 1
