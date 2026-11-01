@@ -9,6 +9,11 @@
   "interstitialFromLevel": 40,
   "interstitialEvery": 5,
   "interstitialEvery30": 5,
+  "interstitialMinSeconds": 180,
+  "rewardedOffers": {
+    "outOfMoves": 1,
+    "doubleCoins": 1
+  },
   "freeHintsPerPuzzle": 1,
   "freeUndosPerPuzzle": 1,
   "extraMovesPerAd": 10,
