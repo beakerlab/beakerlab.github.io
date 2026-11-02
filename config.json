@@ -4,7 +4,9 @@
     "spare": -1,
     "base20": 3,
     "base50": 0,
-    "base100": 0
+    "base100": 0,
+    "hardAdd": 0,
+    "superAdd": 0
   },
   "interstitialFromLevel": 25,
   "interstitialEvery": 3,
