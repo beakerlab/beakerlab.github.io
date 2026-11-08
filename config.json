@@ -8,6 +8,9 @@
     "hardAdd": 0,
     "superAdd": 0
   },
+  "rating": {
+    "atLevel": 5
+  },
   "interstitialFromLevel": 25,
   "interstitialEvery": 3,
   "interstitialEvery30": 3,
