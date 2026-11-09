@@ -21,7 +21,7 @@
   },
   "freeHintsPerPuzzle": 1,
   "freeUndosPerPuzzle": 1,
-  "extraMovesPerAd": 10,
+  "extraMovesPerAd": 5,
   "undosPerAd": 3,
   "hintsPerAd": 3,
   "tryHours": 24,
