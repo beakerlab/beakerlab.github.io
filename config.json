@@ -214,6 +214,19 @@
       ]
     },
     {
+      "key": "spirit",
+      "name": "Season's Greetings",
+      "e": "🎄",
+      "from": [
+        12,
+        1
+      ],
+      "to": [
+        12,
+        26
+      ]
+    },
+    {
       "key": "candycane",
       "name": "Candy Cane Week",
       "e": "🎄",
@@ -224,6 +237,20 @@
       "to": [
         12,
         24
+      ],
+      "old": 1
+    },
+    {
+      "key": "newyear",
+      "name": "New Year's Week",
+      "e": "🎆",
+      "from": [
+        12,
+        27
+      ],
+      "to": [
+        1,
+        3
       ]
     }
   ],
