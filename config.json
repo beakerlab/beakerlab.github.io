@@ -10,7 +10,8 @@
     "mercy": 0
   },
   "rating": {
-    "atLevel": 2
+    "atLevel": 5,
+    "stars": 3
   },
   "interstitialFromLevel": 6,
   "interstitialEvery": 3,
