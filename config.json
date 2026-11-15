@@ -6,7 +6,8 @@
     "base50": 0,
     "base100": 0,
     "hardAdd": 0,
-    "superAdd": 0
+    "superAdd": 0,
+    "mercy": 0
   },
   "rating": {
     "atLevel": 2
