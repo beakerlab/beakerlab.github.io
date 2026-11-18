@@ -32,7 +32,7 @@
   "coinCost": {
     "hint": 30,
     "undo": 20,
-    "moves": 500,
+    "moves": 300,
     "fix": 60,
     "skip": 500,
     "streak": 150,
