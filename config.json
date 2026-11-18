@@ -32,7 +32,7 @@
     "undo": 20,
     "moves": 500,
     "fix": 60,
-    "skip": 400,
+    "skip": 500,
     "streak": 150,
     "beaker": 200
   },
