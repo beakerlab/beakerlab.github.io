@@ -50,7 +50,8 @@
     "welcome": 500
   },
   "login": {
-    "fromLevel": 1
+    "fromLevel": 1,
+    "remindHour": 18
   },
   "piggyCfg": {
     "perWin": 30,
