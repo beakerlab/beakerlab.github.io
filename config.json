@@ -8,8 +8,8 @@
     "hardAdd": 0,
     "superAdd": 0,
     "mercy": 0,
-    "sHard": 1,
-    "sSuper": 0
+    "sHard": 2,
+    "sSuper": 3
   },
   "rating": {
     "atLevel": 5,
