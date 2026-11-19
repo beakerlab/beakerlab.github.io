@@ -9,7 +9,8 @@
     "superAdd": 0,
     "mercy": 0,
     "sHard": 2,
-    "sSuper": 3
+    "sSuper": 3,
+    "sStart": 3
   },
   "rating": {
     "atLevel": 5,
