@@ -260,5 +260,6 @@
   "abAds": {
     "on": 0
   },
-  "firstLevel": 1
+  "firstLevel": 1,
+  "noAdsNudgeHours": 24
 }
