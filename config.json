@@ -267,5 +267,6 @@
   "noAdsNudgeHours": 24,
   "homeAfter": 0,
   "homeFrom": 5,
-  "legendAll": 0
+  "legendAll": 0,
+  "remindFrom": 7
 }
