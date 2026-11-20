@@ -270,9 +270,9 @@
   "legendAll": 0,
   "remindFrom": 7,
   "speed": {
-    "first": 6,
+    "first": 5,
     "every": 8,
     "jitter": 2,
-    "firstAt": 6
+    "firstAt": 5
   }
 }
