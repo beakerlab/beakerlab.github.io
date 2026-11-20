@@ -14,8 +14,9 @@
     "sMin": 3
   },
   "rating": {
-    "atLevel": 5,
-    "stars": 3
+    "atLevel": 20,
+    "stars": 3,
+    "gapDays": 30
   },
   "interstitialFromLevel": 11,
   "interstitialEvery": 5,
@@ -265,6 +266,6 @@
   "firstLevel": 1,
   "noAdsNudgeHours": 24,
   "homeAfter": 0,
-  "homeFrom": 5,
+  "homeFrom": 12,
   "legendAll": 0
 }
