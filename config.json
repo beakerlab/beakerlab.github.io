@@ -272,6 +272,7 @@
   "speed": {
     "first": 10,
     "every": 8,
-    "jitter": 2
+    "jitter": 2,
+    "firstAt": 25
   }
 }
