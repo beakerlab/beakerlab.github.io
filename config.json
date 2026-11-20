@@ -18,8 +18,8 @@
     "stars": 3
   },
   "interstitialFromLevel": 11,
-  "interstitialEvery": 3,
-  "interstitialEvery30": 3,
+  "interstitialEvery": 1,
+  "interstitialEvery30": 1,
   "interstitialMinSeconds": 120,
   "rewardedOffers": {
     "outOfMoves": 1,
