@@ -17,7 +17,7 @@
     "atLevel": 5,
     "stars": 3
   },
-  "interstitialFromLevel": 6,
+  "interstitialFromLevel": 11,
   "interstitialEvery": 3,
   "interstitialEvery30": 3,
   "interstitialMinSeconds": 60,
