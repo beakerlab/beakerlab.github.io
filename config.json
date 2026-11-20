@@ -263,5 +263,7 @@
     "on": 0
   },
   "firstLevel": 1,
-  "noAdsNudgeHours": 24
+  "noAdsNudgeHours": 24,
+  "homeAfter": 0,
+  "homeFrom": 5
 }
