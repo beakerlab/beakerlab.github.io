@@ -19,7 +19,7 @@
   },
   "interstitialFromLevel": 11,
   "interstitialEvery": 5,
-  "interstitialEvery30": 5,
+  "interstitialEvery30": 3,
   "interstitialMinSeconds": 120,
   "rewardedOffers": {
     "outOfMoves": 1,
