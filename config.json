@@ -274,5 +274,6 @@
     "every": 8,
     "jitter": 2,
     "firstAt": 5
-  }
+  },
+  "spinPop": 1
 }
