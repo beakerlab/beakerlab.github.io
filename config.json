@@ -50,7 +50,7 @@
     "invite": 500,
     "video": 25,
     "videosPerDay": 5,
-    "welcome": 5000
+    "welcome": 2500
   },
   "login": {
     "fromLevel": 1,
