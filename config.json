@@ -273,7 +273,15 @@
     "first": 5,
     "every": 8,
     "jitter": 2,
-    "firstAt": 5
+    "firstAt": 5,
+    "reward": 60,
+    "max": 90
   },
-  "spinPop": 1
+  "spinPop": 1,
+  "rush": {
+    "perCork": 8,
+    "clean": 2,
+    "max": 120
+  },
+  "picReward": 90
 }
