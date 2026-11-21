@@ -283,5 +283,6 @@
     "clean": 2,
     "max": 120
   },
-  "picReward": 90
+  "picReward": 90,
+  "quietUntil": 6
 }
