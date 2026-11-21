@@ -42,7 +42,7 @@
     "beaker": 200
   },
   "coinEarn": {
-    "level": 5,
+    "level": 30,
     "daily": 10,
     "weekly": 25,
     "challenge": 10,
