@@ -21,7 +21,7 @@
   "interstitialFromLevel": 15,
   "interstitialEvery": 5,
   "interstitialEvery30": 3,
-  "interstitialMinSeconds": 120,
+  "interstitialMinSeconds": 60,
   "rewardedOffers": {
     "outOfMoves": 1,
     "doubleCoins": 1
