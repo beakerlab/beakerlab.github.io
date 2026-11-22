@@ -284,5 +284,6 @@
     "max": 120
   },
   "picReward": 90,
-  "quietUntil": 6
+  "quietUntil": 6,
+  "restartTaps": 2
 }
