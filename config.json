@@ -286,5 +286,6 @@
   "picReward": 90,
   "quietUntil": 6,
   "restartTaps": 2,
-  "stirStreak": 10
+  "stirStreak": 10,
+  "restartPay": 0
 }
