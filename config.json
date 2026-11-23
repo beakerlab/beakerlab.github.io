@@ -265,7 +265,7 @@
   },
   "firstLevel": 1,
   "noAdsNudgeHours": 24,
-  "homeAfter": 0,
+  "homeAfter": 10,
   "homeFrom": 0,
   "legendAll": 0,
   "remindFrom": 7,
