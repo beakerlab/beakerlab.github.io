@@ -312,5 +312,6 @@
   "stirFreeFrom": 6,
   "cardSpin": 1,
   "cardPack": 0,
-  "solveCardAfter": 1
+  "solveCardAfter": 0,
+  "stirCardAfter": 0
 }
