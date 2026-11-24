@@ -296,6 +296,11 @@
   "trialEventEvery": 1,
   "trialFrom": 15,
   "tutorial": {
-    "forceUntil": 0
-  }
+    "forceUntil": 0,
+    "tipsUntil": 0,
+    "glowUntil": 1,
+    "fastCardAt": 0,
+    "palTipAt": 0
+  },
+  "remindLevel": 50
 }
