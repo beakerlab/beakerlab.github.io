@@ -300,7 +300,7 @@
   "tutorial": {
     "forceUntil": 0,
     "tipsUntil": 0,
-    "glowUntil": 1,
+    "glowUntil": 3,
     "fastCardAt": 0,
     "palTipAt": 0
   },
@@ -313,5 +313,6 @@
   "cardSpin": 1,
   "cardPack": 0,
   "solveCardAfter": 0,
-  "stirCardAfter": 0
+  "stirCardAfter": 0,
+  "freeAfterMixFrom": 2
 }
