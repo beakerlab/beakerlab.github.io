@@ -308,5 +308,7 @@
   "tipToasts": 0,
   "bonusIntro": 0,
   "teaseOn": 0,
-  "stirFreeFrom": 6
+  "stirFreeFrom": 6,
+  "cardSpin": 1,
+  "cardPack": 0
 }
