@@ -292,5 +292,6 @@
   "winTarget": {
     "min": 0,
     "minHard": 0
-  }
+  },
+  "trialEventEvery": 1
 }
