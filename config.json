@@ -293,5 +293,6 @@
     "min": 0,
     "minHard": 0
   },
-  "trialEventEvery": 1
+  "trialEventEvery": 1,
+  "trialFrom": 5
 }
