@@ -55,7 +55,8 @@
   },
   "login": {
     "fromLevel": 1,
-    "remindHour": 18
+    "remindHour": 18,
+    "day2": 100
   },
   "piggyCfg": {
     "perWin": 30,
@@ -305,5 +306,7 @@
   "remindLevel": 21,
   "welcomeHome": 2,
   "tipToasts": 0,
-  "bonusIntro": 0
+  "bonusIntro": 0,
+  "teaseOn": 1,
+  "stirFreeFrom": 6
 }
