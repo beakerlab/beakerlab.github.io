@@ -10,9 +10,10 @@
     "mercy": 3,
     "sHard": 2,
     "sSuper": 3,
-    "sStart": 5,
-    "sMin": 3,
-    "sStep": 50
+    "sStart": 6,
+    "sMin": 5,
+    "sStep": 5,
+    "sEarly": 0
   },
   "rating": {
     "atLevel": 7,
