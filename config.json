@@ -304,5 +304,6 @@
   },
   "remindLevel": 21,
   "welcomeHome": 2,
-  "tipToasts": 0
+  "tipToasts": 0,
+  "bonusIntro": 0
 }
