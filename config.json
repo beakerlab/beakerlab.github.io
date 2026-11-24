@@ -274,7 +274,7 @@
     "first": 5,
     "every": 8,
     "jitter": 2,
-    "firstAt": 5,
+    "firstAt": 20,
     "reward": 60,
     "max": 90
   },
@@ -302,5 +302,7 @@
     "fastCardAt": 0,
     "palTipAt": 0
   },
-  "remindLevel": 21
+  "remindLevel": 21,
+  "welcomeHome": 2,
+  "tipToasts": 0
 }
