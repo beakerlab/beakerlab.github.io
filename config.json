@@ -311,5 +311,6 @@
   "teaseOn": 0,
   "stirFreeFrom": 6,
   "cardSpin": 1,
-  "cardPack": 0
+  "cardPack": 0,
+  "solveCardAfter": 1
 }
