@@ -294,5 +294,8 @@
     "minHard": 0
   },
   "trialEventEvery": 1,
-  "trialFrom": 15
+  "trialFrom": 15,
+  "tutorial": {
+    "forceUntil": 0
+  }
 }
