@@ -269,7 +269,7 @@
   "homeAfter": 10,
   "homeFrom": 0,
   "legendAll": 0,
-  "remindFrom": 7,
+  "remindFrom": 15,
   "speed": {
     "first": 5,
     "every": 8,
@@ -302,5 +302,5 @@
     "fastCardAt": 0,
     "palTipAt": 0
   },
-  "remindLevel": 50
+  "remindLevel": 21
 }
