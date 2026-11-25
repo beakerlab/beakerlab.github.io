@@ -290,7 +290,7 @@
   "quietUntil": 6,
   "restartTaps": 2,
   "stirStreak": 10,
-  "restartPay": 0,
+  "restartPay": 1,
   "winTarget": {
     "min": 0,
     "minHard": 0
@@ -317,5 +317,6 @@
   "freeAfterMixFrom": 2,
   "noAdsPop": {
     "from": 15
-  }
+  },
+  "restartFree": 0
 }
