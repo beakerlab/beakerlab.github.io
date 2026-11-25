@@ -314,5 +314,8 @@
   "cardPack": 0,
   "solveCardAfter": 0,
   "stirCardAfter": 0,
-  "freeAfterMixFrom": 2
+  "freeAfterMixFrom": 2,
+  "noAdsPop": {
+    "from": 15
+  }
 }
