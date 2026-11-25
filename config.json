@@ -302,8 +302,8 @@
     "forceUntil": 3,
     "tipsUntil": 3,
     "glowUntil": 3,
-    "fastCardAt": 0,
-    "palTipAt": 0
+    "fastCardAt": 7,
+    "palTipAt": 6
   },
   "remindLevel": 21,
   "welcomeHome": 2,
