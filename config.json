@@ -318,5 +318,7 @@
   "noAdsPop": {
     "from": 15
   },
-  "restartFree": 0
+  "restartFree": 1,
+  "restartStart": 0,
+  "restartEarn": 0
 }
