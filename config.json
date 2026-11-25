@@ -20,7 +20,7 @@
     "stars": 3,
     "gapDays": 30
   },
-  "interstitialFromLevel": 15,
+  "interstitialFromLevel": 6,
   "interstitialEvery": 5,
   "interstitialEvery30": 3,
   "interstitialMinSeconds": 120,
