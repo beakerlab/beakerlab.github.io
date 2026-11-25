@@ -321,5 +321,6 @@
   },
   "restartFree": 1,
   "restartStart": 0,
-  "restartEarn": 0
+  "restartEarn": 0,
+  "winCardFrom": 1
 }
