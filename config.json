@@ -298,7 +298,7 @@
   "trialEventEvery": 1,
   "trialFrom": 15,
   "tutorial": {
-    "forceUntil": 0,
+    "forceUntil": 3,
     "tipsUntil": 0,
     "glowUntil": 3,
     "fastCardAt": 0,
@@ -314,7 +314,7 @@
   "cardPack": 0,
   "solveCardAfter": 0,
   "stirCardAfter": 0,
-  "freeAfterMixFrom": 2,
+  "freeAfterMixFrom": 4,
   "noAdsPop": {
     "from": 15
   },
