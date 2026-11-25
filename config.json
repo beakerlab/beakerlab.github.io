@@ -300,7 +300,7 @@
   "trialFrom": 15,
   "tutorial": {
     "forceUntil": 3,
-    "tipsUntil": 0,
+    "tipsUntil": 3,
     "glowUntil": 3,
     "fastCardAt": 0,
     "palTipAt": 0
