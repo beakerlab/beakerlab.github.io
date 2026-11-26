@@ -325,5 +325,6 @@
   "winCardFrom": 1,
   "dsFingerUntil": 3,
   "dsStirBtn": 4,
-  "dsSolveBtn": 4
+  "dsSolveBtn": 4,
+  "dsHomeAfter": 5
 }
