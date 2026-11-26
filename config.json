@@ -271,7 +271,7 @@
   "homeAfter": 10,
   "homeFrom": 0,
   "legendAll": 0,
-  "remindFrom": 8,
+  "remindFrom": 1,
   "speed": {
     "first": 5,
     "every": 8,
