@@ -302,7 +302,7 @@
     "forceUntil": 3,
     "tipsUntil": 3,
     "glowUntil": 3,
-    "fastCardAt": 7,
+    "fastCardAt": 10,
     "palTipAt": 6
   },
   "remindLevel": 8,
@@ -326,5 +326,6 @@
   "dsFingerUntil": 3,
   "dsStirBtn": 4,
   "dsSolveBtn": 4,
-  "dsHomeAfter": 5
+  "dsHomeAfter": 5,
+  "dsFastAt": 10
 }
