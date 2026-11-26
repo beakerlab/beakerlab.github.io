@@ -329,5 +329,6 @@
   "dsSolveBtn": 4,
   "dsHomeAfter": 5,
   "dsFastAt": 4,
-  "dsFastAfter": 0
+  "dsFastAfter": 0,
+  "dsWholeTip": 0
 }
