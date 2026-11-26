@@ -323,5 +323,7 @@
   "restartStart": 0,
   "restartEarn": 0,
   "winCardFrom": 1,
-  "dsFingerUntil": 3
+  "dsFingerUntil": 3,
+  "dsStirBtn": 4,
+  "dsSolveBtn": 4
 }
