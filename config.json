@@ -343,6 +343,7 @@
   "movesBucks": 1,
   "restartBucks": 0,
   "restartDay": 3,
-  "qvOn": 0,
-  "restartHours": 4
+  "qvOn": 1,
+  "restartHours": 4,
+  "qvFrom": 30
 }
