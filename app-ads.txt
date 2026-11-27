@@ -202,3 +202,5 @@ rtbhouse.com, XPSLDtnX92XNGGFB6ith, RESELLER, 4f3b94578e85950c
 freewheel.tv, 536359-r-524565, RESELLER
 freewheel.tv, 536359-r-523319, RESELLER
 adform.com, 3354, RESELLER, 9f5210a2f0999e32
+# PubMatic (from PubMatic approval email, Nov 27 2026)
+pubmatic.com, 159856, DIRECT, 5d62403b186f2ace
