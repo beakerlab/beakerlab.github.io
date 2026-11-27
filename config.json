@@ -330,5 +330,8 @@
   "dsHomeAfter": 5,
   "dsFastAt": 4,
   "dsFastAfter": 0,
-  "dsWholeTip": 0
+  "dsWholeTip": 0,
+  "dblL1": 0,
+  "dblL2": 0,
+  "dblL3": 0
 }
