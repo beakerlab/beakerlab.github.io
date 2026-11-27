@@ -173,3 +173,11 @@ sharethrough.com, 4194, RESELLER, 060d053dcf45cbf3
 rubiconproject.com, 22884, DIRECT, 0bfd66d529a55807
 # InMobi (Google Open Bidding, from InMobi dashboard > Inventory > app-ads.txt, Nov 27, 2026)
 inmobi.com, 78796601c84b4c6e9ad57536377b317f, DIRECT, 83e75a7ae333ca9d
+# OneTag (Open Bidding, Nov 27 2026)
+onetag.com, 98ab03a2618689c, DIRECT
+onetag.com, 98ab03a2618689c-OB, DIRECT
+appnexus.com, 13099, RESELLER
+pubmatic.com, 161593, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 11006, RESELLER, 0bfd66d529a55807
+video.unrulymedia.com, 586616193, RESELLER
+smartadserver.com, 4111, RESELLER
