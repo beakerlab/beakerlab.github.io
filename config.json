@@ -8,10 +8,10 @@
     "hardAdd": 0,
     "superAdd": 0,
     "mercy": 0,
-    "sHard": 1,
-    "sSuper": 2,
+    "sHard": 2,
+    "sSuper": 1,
     "sStart": 6,
-    "sMin": 3,
+    "sMin": 5,
     "sStep": 5,
     "sEarly": 0
   },
@@ -341,5 +341,5 @@
   "trickyPack": 0,
   "oomPack": 0,
   "movesBucks": 1,
-  "restartBucks": 0
+  "restartBucks": 1
 }
