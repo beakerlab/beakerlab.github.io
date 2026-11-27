@@ -341,5 +341,6 @@
   "trickyPack": 0,
   "oomPack": 0,
   "movesBucks": 1,
-  "restartBucks": 1
+  "restartBucks": 1,
+  "restartDay": 5
 }
