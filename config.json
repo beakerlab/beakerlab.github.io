@@ -342,5 +342,6 @@
   "oomPack": 0,
   "movesBucks": 1,
   "restartBucks": 0,
-  "restartDay": 5
+  "restartDay": 5,
+  "qvOn": 0
 }
