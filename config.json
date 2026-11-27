@@ -290,7 +290,7 @@
   "quietUntil": 6,
   "restartTaps": 2,
   "stirStreak": 10,
-  "restartPay": 1,
+  "restartPay": 0,
   "winTarget": {
     "min": 0,
     "minHard": 0,
@@ -341,6 +341,6 @@
   "trickyPack": 0,
   "oomPack": 0,
   "movesBucks": 1,
-  "restartBucks": 1,
+  "restartBucks": 0,
   "restartDay": 5
 }
