@@ -345,5 +345,9 @@
   "restartDay": 3,
   "qvOn": 1,
   "restartHours": 4,
-  "qvFrom": 30
+  "qvFrom": 30,
+  "rwGift": {
+    "on": 1,
+    "after": 3
+  }
 }
