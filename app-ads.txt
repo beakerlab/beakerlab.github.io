@@ -171,3 +171,5 @@ sharethrough.com, 4194-OB, RESELLER, 060d053dcf45cbf3
 sharethrough.com, 4194, RESELLER, 060d053dcf45cbf3
 # Magnite (Google Open Bidding, from Magnite email Nov 27, 2026)
 rubiconproject.com, 22884, DIRECT, 0bfd66d529a55807
+# InMobi (Google Open Bidding, from InMobi dashboard > Inventory > app-ads.txt, Nov 27, 2026)
+inmobi.com, 78796601c84b4c6e9ad57536377b317f, DIRECT, 83e75a7ae333ca9d
