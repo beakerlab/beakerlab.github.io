@@ -349,5 +349,6 @@
   "rwGift": {
     "on": 1,
     "after": 3
-  }
+  },
+  "recipeOn": 0
 }
